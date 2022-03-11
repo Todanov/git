@@ -6,3 +6,8 @@ application-local.properties
 !idea_copy/
 idea_copy/*
 !idea_copy/*workspace.xml
+.gitignore
+src/modules/module2/*
+!module2.jar
+.idea_copy/*
+!workspace.xml
